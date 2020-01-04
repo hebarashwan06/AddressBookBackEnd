@@ -1,0 +1,11 @@
+C:\Users\pc\source\repos\AddressBookDemo\AddressBookDemo.DataMapping\obj\Debug\netcoreapp2.1\AddressBookDemo.DataMapping.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\AddressBookDemo\AddressBookDemo.DataMapping\obj\Debug\netcoreapp2.1\AddressBookDemo.DataMapping.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\AddressBookDemo\AddressBookDemo.DataMapping\obj\Debug\netcoreapp2.1\AddressBookDemo.DataMapping.AssemblyInfo.cs
+C:\Users\pc\source\repos\AddressBookDemo\AddressBookDemo.DataMapping\bin\Debug\netcoreapp2.1\AddressBookDemo.DataMapping.deps.json
+C:\Users\pc\source\repos\AddressBookDemo\AddressBookDemo.DataMapping\bin\Debug\netcoreapp2.1\AddressBookDemo.DataMapping.runtimeconfig.json
+C:\Users\pc\source\repos\AddressBookDemo\AddressBookDemo.DataMapping\bin\Debug\netcoreapp2.1\AddressBookDemo.DataMapping.runtimeconfig.dev.json
+C:\Users\pc\source\repos\AddressBookDemo\AddressBookDemo.DataMapping\bin\Debug\netcoreapp2.1\AddressBookDemo.DataMapping.dll
+C:\Users\pc\source\repos\AddressBookDemo\AddressBookDemo.DataMapping\bin\Debug\netcoreapp2.1\AddressBookDemo.DataMapping.pdb
+C:\Users\pc\source\repos\AddressBookDemo\AddressBookDemo.DataMapping\obj\Debug\netcoreapp2.1\AddressBookDemo.DataMapping.dll
+C:\Users\pc\source\repos\AddressBookDemo\AddressBookDemo.DataMapping\obj\Debug\netcoreapp2.1\AddressBookDemo.DataMapping.pdb
+C:\Users\pc\source\repos\AddressBookDemo\AddressBookDemo.DataMapping\obj\Debug\netcoreapp2.1\AddressBookDemo.DataMapping.csprojAssemblyReference.cache
